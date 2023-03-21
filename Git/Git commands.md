@@ -5,3 +5,6 @@
 - Git push
 - Git log
 - Git Checkout
+- Git difference/Git diff
+- Git cat-file
+- Git show
