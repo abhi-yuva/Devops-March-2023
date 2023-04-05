@@ -9,4 +9,4 @@
 - Git cat-file
 - Git show
 - Git branch
-- 
+- Git merge
